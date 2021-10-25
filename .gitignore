@@ -3,6 +3,8 @@ data/
 
 .DS_Store
 
+# Just making changes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
