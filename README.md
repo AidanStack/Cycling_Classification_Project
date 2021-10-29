@@ -1,3 +1,10 @@
+# Repo Structure
+
+.gitignore - Our dataset has nearly 2 million rows, making it far too large for github. Data source is linked at the bottom of this README
+Main Analysis Notebook - Our entire data science process for this project. 
+README - YOU ARE HERE
+
+
 # Business Problem and Overview
 
 Our proposed client is the City of New York itself. The city government has come under fire from constituents and cyclist advocacy groups for the dangerous conditions cyclists endure. The city's transportation leadership want to know what conditions lead to deadly traffic collisions for New York's cyclists. The classification model in this instance is not the end product, as once the city has a record of the accident, they already know if a cyclist has died or not. The final product of this analysis will be the emergent patterns revealed by what parameters make for a classification model capable of predicting fatal cycling accidents. Our data comes from the NYC Open Data project.
