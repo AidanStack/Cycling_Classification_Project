@@ -37,3 +37,8 @@ Possible Next Steps
 1. Fill in NaN values in Borough and Zipcode using latitude and longitude data. 
 2. Build an intersection feature using Street and Cross Street that finds the cities most dangerous intersections. 
 3. Look at bicycles vs E-Bikes in terms of collision lethality. 
+
+
+Presentation Link: https://www.canva.com/design/DAEuDWwpohA/1pH6i6Tejg5N8YkQkCM45Q/view?utm_content=DAEuDWwpohA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+NYC Open Data Motor Vehicle Collisions: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/data
