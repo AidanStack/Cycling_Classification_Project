@@ -1,6 +1,7 @@
 # Repo Structure
 
 .gitignore - Our dataset has nearly 2 million rows, making it far too large for github. Data source is linked at the bottom of this README
+
 Main Analysis Notebook - Our entire data science process for this project. 
 
 README - YOU ARE HERE
